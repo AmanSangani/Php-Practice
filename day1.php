@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Php Practice</title>
+  <title>Php Practice Day-1</title>
 </head>
 
 <body>

@@ -7,6 +7,7 @@
             color: #FF0000;
         }
     </style>
+    <title>Php Practice Day-5</title>
 </head>
 
 <body>
